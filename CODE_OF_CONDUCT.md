@@ -1,6 +1,0 @@
-
-
-
-git rm filename
-git commit -m "Delete filename"
-git push origin main
